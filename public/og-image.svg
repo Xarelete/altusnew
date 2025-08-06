@@ -1,0 +1,67 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d2d2d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Overlay pattern -->
+  <rect width="1200" height="630" fill="url(#bgGradient)" opacity="0.1"/>
+  
+  <!-- Logo section -->
+  <g transform="translate(600, 200)">
+    <!-- Logo background circle -->
+    <circle cx="0" cy="0" r="80" fill="#000000" stroke="#D4AF37" stroke-width="3"/>
+    
+    <!-- Mountains and sun design -->
+    <g fill="#D4AF37" transform="translate(0, -20)">
+      <!-- Central semi-circle (sun/moon) -->
+      <path d="M-20 -20C-20 -20 -10 -30 0 -30C10 -30 20 -20 20 -20C20 -20 25 -10 25 0C25 10 20 20 20 20C20 20 10 30 0 30C-10 30 -20 20 -20 20C-20 20 -25 10 -25 0C-25 -10 -20 -20 -20 -20Z"/>
+      
+      <!-- Left mountains -->
+      <path d="M-40 0L-30 -10L-20 0L-10 -10L0 0V20H-40V0Z"/>
+      
+      <!-- Right mountains -->
+      <path d="M0 0L10 -10L20 0L30 -10L40 0V20H0V0Z"/>
+    </g>
+    
+    <!-- Text "ALTUS" -->
+    <text x="0" y="60" text-anchor="middle" fill="#D4AF37" font-family="serif" font-size="24" font-weight="bold">ALTUS</text>
+    
+    <!-- Text "AMÉRICA" -->
+    <text x="0" y="85" text-anchor="middle" fill="#D4AF37" font-family="serif" font-size="18" font-weight="bold">AMÉRICA</text>
+  </g>
+  
+  <!-- Main heading -->
+  <text x="600" y="350" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
+    BREVE LANÇAMENTO
+  </text>
+  <text x="600" y="400" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
+    NO JARDIM AMÉRICA
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="450" text-anchor="middle" fill="#CCCCCC" font-family="Arial, sans-serif" font-size="24">
+    Apartamentos de 2 e 3 dormitórios com suíte
+  </text>
+  <text x="600" y="480" text-anchor="middle" fill="#CCCCCC" font-family="Arial, sans-serif" font-size="24">
+    com metragens de 66m² a 87m²
+  </text>
+  
+  <!-- CTA Button -->
+  <rect x="450" y="520" width="300" height="60" rx="30" fill="#D4AF37"/>
+  <text x="600" y="560" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
+    ANTECIPE-SE AO LANÇAMENTO
+  </text>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="3" fill="#D4AF37" opacity="0.6"/>
+  <circle cx="1100" cy="150" r="2" fill="#D4AF37" opacity="0.4"/>
+  <circle cx="150" cy="500" r="2" fill="#D4AF37" opacity="0.5"/>
+  <circle cx="1050" cy="450" r="3" fill="#D4AF37" opacity="0.3"/>
+</svg> 
