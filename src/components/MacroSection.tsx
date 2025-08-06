@@ -91,7 +91,7 @@ const MacroSection = () => {
             <div className="text-sm sm:text-base lg:text-lg text-[#555]">entregas</div>
           </div>
           <div>
-            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#F37021] mb-1 sm:mb-2">47</div>
+            <div className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#F37021] mb-1 sm:mb-2">49</div>
             <div className="text-sm sm:text-base lg:text-lg text-[#555]">anos apaixonados por engenharia</div>
           </div>
           <div>
