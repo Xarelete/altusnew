@@ -13,7 +13,7 @@ const MacroSection = () => {
             />
           </div>
           <p className="text-sm sm:text-lg font-medium text-[#555] mb-4 sm:mb-6">
-            48 anos de excelência em engenharia na região de São José dos Campos
+            49 anos de excelência em engenharia na região de São José dos Campos
           </p>
           
           <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold text-[#333] mb-2 relative title-font">

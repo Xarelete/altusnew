@@ -5,7 +5,7 @@ const LocationSection = () => {
     {
       icon: ShoppingBag,
       name: "Vale Sul Shopping",
-      time: "7 min",
+      time: "4 min",
       type: "Shopping Center",
       color: "from-blue-500 to-blue-600"
     },

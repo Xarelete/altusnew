@@ -12,27 +12,27 @@ const TestimonialsSection = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Maria Silva",
-      role: "Moradora há 3 anos",
-      text: "Excelente qualidade de construção e acabamento. Superou nossas expectativas em todos os aspectos. A localização é perfeita e a estrutura de lazer é incrível.",
+      name: "Amanda Bittencourt",
+      role: "Moradora",
+      text: "A construtora mais transparente que já conheci, tenho orgulho de ter comprado meu primeiro apartamento com a Macro.",
       rating: 5,
-      avatar: "MS"
+      avatar: "AB"
     },
     {
       id: 2,
-      name: "João Santos",
-      role: "Família Santos",
-      text: "Localização perfeita e plantas bem pensadas. Nossa família está muito feliz com a escolha. O investimento valeu cada centavo e recomendamos para todos.",
+      name: "Rodrigo Castro",
+      role: "Família Castro",
+      text: "Conhecia a Macro apenas pelas construções industriais, quando eles começaram a lançar residenciais eu já sabia da excelência deles e não pensei duas vezes em investir",
       rating: 5,
-      avatar: "JS"
+      avatar: "RC"
     },
     {
       id: 3,
-      name: "Ana Costa",
+      name: "Samuel Freitas",
       role: "Proprietária",
-      text: "Atendimento excepcional desde o primeiro contato. Profissionais muito competentes e sempre dispostos a esclarecer todas as dúvidas. Experiência incrível!",
+      text: "Comprei o Mirati Residenciais e com certeza investirei no próximo lançamento da Macro!",
       rating: 5,
-      avatar: "AC"
+      avatar: "SF"
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ const TestimonialsSection = () => {
     {
       id: 5,
       name: "Lucia Ferreira",
-      role: "Moradora satisfeita",
+      role: "Proprietária",
       text: "Entrega pontual e dentro do prometido. Recomendo a MACRO para todos os amigos. A qualidade dos materiais e acabamentos é excepcional.",
       rating: 5,
       avatar: "LF"
